@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dcc-wallet-emulator/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dcc-wallet-emulator/static/js/main.85ad6cc9.chunk.js",
-    "main.js.map": "/dcc-wallet-emulator/static/js/main.85ad6cc9.chunk.js.map",
+    "main.js": "/dcc-wallet-emulator/static/js/main.9078e1b9.chunk.js",
+    "main.js.map": "/dcc-wallet-emulator/static/js/main.9078e1b9.chunk.js.map",
     "runtime-main.js": "/dcc-wallet-emulator/static/js/runtime-main.6d9178d1.js",
     "runtime-main.js.map": "/dcc-wallet-emulator/static/js/runtime-main.6d9178d1.js.map",
     "static/js/2.3a47e083.chunk.js": "/dcc-wallet-emulator/static/js/2.3a47e083.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.6d9178d1.js",
     "static/js/2.3a47e083.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.85ad6cc9.chunk.js"
+    "static/js/main.9078e1b9.chunk.js"
   ]
 }
