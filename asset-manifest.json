@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/dcc-wallet-emulator/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dcc-wallet-emulator/static/js/main.9078e1b9.chunk.js",
-    "main.js.map": "/dcc-wallet-emulator/static/js/main.9078e1b9.chunk.js.map",
-    "runtime-main.js": "/dcc-wallet-emulator/static/js/runtime-main.6d9178d1.js",
-    "runtime-main.js.map": "/dcc-wallet-emulator/static/js/runtime-main.6d9178d1.js.map",
-    "static/js/2.3a47e083.chunk.js": "/dcc-wallet-emulator/static/js/2.3a47e083.chunk.js",
-    "static/js/2.3a47e083.chunk.js.map": "/dcc-wallet-emulator/static/js/2.3a47e083.chunk.js.map",
-    "index.html": "/dcc-wallet-emulator/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/dcc-wallet-emulator/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3a47e083.chunk.js.LICENSE.txt": "/dcc-wallet-emulator/static/js/2.3a47e083.chunk.js.LICENSE.txt",
-    "static/media/macEngLogo.bc937ee1.png": "/dcc-wallet-emulator/static/media/macEngLogo.bc937ee1.png"
+    "main.css": "/credd-wallet-emulator/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/credd-wallet-emulator/static/js/main.55f03ee4.chunk.js",
+    "main.js.map": "/credd-wallet-emulator/static/js/main.55f03ee4.chunk.js.map",
+    "runtime-main.js": "/credd-wallet-emulator/static/js/runtime-main.6e3e1ec4.js",
+    "runtime-main.js.map": "/credd-wallet-emulator/static/js/runtime-main.6e3e1ec4.js.map",
+    "static/js/2.9d7d078e.chunk.js": "/credd-wallet-emulator/static/js/2.9d7d078e.chunk.js",
+    "static/js/2.9d7d078e.chunk.js.map": "/credd-wallet-emulator/static/js/2.9d7d078e.chunk.js.map",
+    "index.html": "/credd-wallet-emulator/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/credd-wallet-emulator/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9d7d078e.chunk.js.LICENSE.txt": "/credd-wallet-emulator/static/js/2.9d7d078e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d9178d1.js",
-    "static/js/2.3a47e083.chunk.js",
+    "static/js/runtime-main.6e3e1ec4.js",
+    "static/js/2.9d7d078e.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.9078e1b9.chunk.js"
+    "static/js/main.55f03ee4.chunk.js"
   ]
 }
